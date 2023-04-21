@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GPS_Project" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pastel_red</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white_smoke</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pastel_red</item>
+        <item name="colorSecondaryVariant">@color/white_smoke</item>
+        <item name="colorOnSecondary">@color/white_smoke</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MenuStyle" parent="Theme.AppCompat.Light">
+        <item name="android:background">@android:color/white</item>
+    </style>
+</resources>

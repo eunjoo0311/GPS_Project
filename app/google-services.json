@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829370737035",
+    "project_id": "graduation-work-349e6",
+    "storage_bucket": "graduation-work-349e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829370737035:android:96ff2db6bdfd9c8edf8f8e",
+        "android_client_info": {
+          "package_name": "com.example.gps_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829370737035-30ii9umafmmsr3ngfhfu1gugb9k7ehm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_6BZ24ns2TlqsM35EtPK3QtjZNneY8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829370737035-30ii9umafmmsr3ngfhfu1gugb9k7ehm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
